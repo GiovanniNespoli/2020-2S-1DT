@@ -1,0 +1,37 @@
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.exe
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.deps.json
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.dll
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.pdb
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.Views.dll
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\bin\Debug\netcoreapp3.1\AspNet Core.Views.pdb
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.RazorAssemblyInfo.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.RazorAssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.TagHelpers.input.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.TagHelpers.output.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.RazorCoreGenerate.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.RazorTargetAssemblyInfo.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.RazorTargetAssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.Views.pdb
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\staticwebassets\AspNet Core.StaticWebAssets.Manifest.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\staticwebassets\AspNet Core.StaticWebAssets.xml
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.dll
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.pdb
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.genruntimeconfig.cache
+C:\Users\ggnes\Desktop\senai\cod\AspNet Core\obj\Debug\netcoreapp3.1\AspNet Core.csproj.CopyComplete

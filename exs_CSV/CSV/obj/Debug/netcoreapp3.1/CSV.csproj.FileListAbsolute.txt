@@ -1,0 +1,26 @@
+C:\Users\ggnes\Desktop\senai\cod\CSV\bin\Debug\netcoreapp3.1\CSV.exe
+C:\Users\ggnes\Desktop\senai\cod\CSV\bin\Debug\netcoreapp3.1\CSV.deps.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\bin\Debug\netcoreapp3.1\CSV.dll
+C:\Users\ggnes\Desktop\senai\cod\CSV\bin\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.dll
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\ggnes\Desktop\senai\cod\CSV\obj\Debug\netcoreapp3.1\CSV.genruntimeconfig.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\bin\Debug\netcoreapp3.1\CSV.exe
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\bin\Debug\netcoreapp3.1\CSV.deps.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\bin\Debug\netcoreapp3.1\CSV.dll
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\bin\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.dll
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\ggnes\Desktop\senai\cod\CSV\CSV -5-1-2021-\obj\Debug\netcoreapp3.1\CSV.genruntimeconfig.cache

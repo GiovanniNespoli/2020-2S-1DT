@@ -1,0 +1,13 @@
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\bin\Debug\netcoreapp3.1\PROJETO POO.exe
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\bin\Debug\netcoreapp3.1\PROJETO POO.deps.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\bin\Debug\netcoreapp3.1\PROJETO POO.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\bin\Debug\netcoreapp3.1\PROJETO POO.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\bin\Debug\netcoreapp3.1\PROJETO POO.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\bin\Debug\netcoreapp3.1\PROJETO POO.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\PROJETO POO\obj\Debug\netcoreapp3.1\PROJETO POO.genruntimeconfig.cache

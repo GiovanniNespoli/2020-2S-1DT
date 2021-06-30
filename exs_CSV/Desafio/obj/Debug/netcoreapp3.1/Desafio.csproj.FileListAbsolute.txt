@@ -1,0 +1,13 @@
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\ggnes\Desktop\senai\cod\CSV\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache

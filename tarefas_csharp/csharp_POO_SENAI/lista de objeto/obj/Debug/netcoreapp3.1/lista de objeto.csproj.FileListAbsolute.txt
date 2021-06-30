@@ -1,0 +1,13 @@
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\bin\Debug\netcoreapp3.1\lista de objeto.exe
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\bin\Debug\netcoreapp3.1\lista de objeto.deps.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\bin\Debug\netcoreapp3.1\lista de objeto.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\bin\Debug\netcoreapp3.1\lista de objeto.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\bin\Debug\netcoreapp3.1\lista de objeto.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\bin\Debug\netcoreapp3.1\lista de objeto.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\lista de objeto\obj\Debug\netcoreapp3.1\lista de objeto.genruntimeconfig.cache

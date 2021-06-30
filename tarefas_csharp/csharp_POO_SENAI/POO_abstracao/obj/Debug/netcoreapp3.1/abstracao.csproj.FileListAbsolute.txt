@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfo.cs
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\bin\Debug\netcoreapp3.1\abstracao.exe
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\bin\Debug\netcoreapp3.1\abstracao.deps.json
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.json
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\bin\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\bin\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\POO_abstracao\obj\Debug\netcoreapp3.1\abstracao.genruntimeconfig.cache

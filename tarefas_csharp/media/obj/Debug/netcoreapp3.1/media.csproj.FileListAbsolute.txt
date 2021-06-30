@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\senai\cod\back\media\bin\Debug\netcoreapp3.1\media.exe
+C:\Users\gglob\Desktop\senai\cod\back\media\bin\Debug\netcoreapp3.1\media.deps.json
+C:\Users\gglob\Desktop\senai\cod\back\media\bin\Debug\netcoreapp3.1\media.runtimeconfig.json
+C:\Users\gglob\Desktop\senai\cod\back\media\bin\Debug\netcoreapp3.1\media.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\senai\cod\back\media\bin\Debug\netcoreapp3.1\media.dll
+C:\Users\gglob\Desktop\senai\cod\back\media\bin\Debug\netcoreapp3.1\media.pdb
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.AssemblyInfo.cs
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.dll
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.pdb
+C:\Users\gglob\Desktop\senai\cod\back\media\obj\Debug\netcoreapp3.1\media.genruntimeconfig.cache

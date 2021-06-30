@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.AssemblyInfo.cs
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\senai\cod\condição\farol\bin\Debug\netcoreapp3.1\farol.exe
+C:\Users\gglob\Desktop\senai\cod\condição\farol\bin\Debug\netcoreapp3.1\farol.deps.json
+C:\Users\gglob\Desktop\senai\cod\condição\farol\bin\Debug\netcoreapp3.1\farol.runtimeconfig.json
+C:\Users\gglob\Desktop\senai\cod\condição\farol\bin\Debug\netcoreapp3.1\farol.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\senai\cod\condição\farol\bin\Debug\netcoreapp3.1\farol.dll
+C:\Users\gglob\Desktop\senai\cod\condição\farol\bin\Debug\netcoreapp3.1\farol.pdb
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.dll
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.pdb
+C:\Users\gglob\Desktop\senai\cod\condição\farol\obj\Debug\netcoreapp3.1\farol.genruntimeconfig.cache

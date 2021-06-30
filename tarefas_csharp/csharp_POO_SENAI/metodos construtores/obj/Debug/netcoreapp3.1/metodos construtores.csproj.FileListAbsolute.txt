@@ -1,0 +1,13 @@
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\bin\Debug\netcoreapp3.1\metodos construtores.exe
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\bin\Debug\netcoreapp3.1\metodos construtores.deps.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\bin\Debug\netcoreapp3.1\metodos construtores.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\bin\Debug\netcoreapp3.1\metodos construtores.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\bin\Debug\netcoreapp3.1\metodos construtores.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\bin\Debug\netcoreapp3.1\metodos construtores.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\metodos construtores\obj\Debug\netcoreapp3.1\metodos construtores.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\gglob\Desktop\While\for\obj\Debug\netcoreapp3.1\for.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\While\for\obj\Debug\netcoreapp3.1\for.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\While\for\obj\Debug\netcoreapp3.1\for.AssemblyInfo.cs
+C:\Users\gglob\Desktop\While\for\obj\Debug\netcoreapp3.1\for.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\While\forr\bin\Debug\netcoreapp3.1\for.exe
+C:\Users\gglob\Desktop\While\forr\bin\Debug\netcoreapp3.1\for.deps.json
+C:\Users\gglob\Desktop\While\forr\bin\Debug\netcoreapp3.1\for.runtimeconfig.json
+C:\Users\gglob\Desktop\While\forr\bin\Debug\netcoreapp3.1\for.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\While\forr\bin\Debug\netcoreapp3.1\for.dll
+C:\Users\gglob\Desktop\While\forr\bin\Debug\netcoreapp3.1\for.pdb
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.AssemblyInfo.cs
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.dll
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.pdb
+C:\Users\gglob\Desktop\While\forr\obj\Debug\netcoreapp3.1\for.genruntimeconfig.cache

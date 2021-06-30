@@ -1,0 +1,66 @@
+@model Jogador
+
+@{
+    ViewData["Title"] = "Cadastro de Jogadores";
+}
+<div class="titulo_pagina">
+            <h1>cadastro de Jogador</h1>
+        </div>
+
+<form class="cadastro" method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+
+    <div class="campo">
+        <label for="IdEquipe">Id do jogador</label>
+        <Input type="text" name="IdJogador" />
+    </div>
+
+    <div class="campo">
+        <label for="NomeDaEquipe">Nome</label>
+        <input type="text" name="Nome1" />
+    </div>
+
+    <div class="campo">
+        <label for="text">ID da sua equipe</label>
+         <select name="IdEquipe" id="IdEquipe">
+             <option value="0"Selecione uma opção abaixo...></option>
+             @foreach (Equipe x in ViewBag.equipe)
+             {
+                 <option value="@x.IdEquipe" >@x.NomeDaEquipe</option>
+             }
+         </select>
+    </div>
+
+    <div class="campo">
+        <label for="Email">Email</label>
+        <input type="email" name="Email" />
+    </div>
+
+    <div class="campo">
+        <label for="password">Senha</label>
+        <input type="password" name="Senha" />
+    </div>
+
+    <button class="gradient btn" type="submit">Cadastrar</button>
+
+</form>
+
+    <table class="table table-striped table-responsive">
+        <thead>
+            <th>Id do Jogador</th>
+            <th>Nome</th>
+            <th>Email</th>
+        </thead>
+
+        <tbody>
+            @foreach (Jogador x in ViewBag.jg)
+            {
+                <tr>
+                    <td>@x.IdJogador</td>
+                    <td>@x.Nome</td>
+                    <td>@x.Email</td>
+                    <td><a asp-controller="Jogador" asp-action="delete" asp-route-id="@x.IdJogador">Deletar</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table>

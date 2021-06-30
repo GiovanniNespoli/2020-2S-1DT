@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\passagem\bin\Debug\netcoreapp3.1\passagem.exe
+C:\Users\gglob\Desktop\passagem\bin\Debug\netcoreapp3.1\passagem.deps.json
+C:\Users\gglob\Desktop\passagem\bin\Debug\netcoreapp3.1\passagem.runtimeconfig.json
+C:\Users\gglob\Desktop\passagem\bin\Debug\netcoreapp3.1\passagem.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\passagem\bin\Debug\netcoreapp3.1\passagem.dll
+C:\Users\gglob\Desktop\passagem\bin\Debug\netcoreapp3.1\passagem.pdb
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.AssemblyInfo.cs
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.dll
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.pdb
+C:\Users\gglob\Desktop\passagem\obj\Debug\netcoreapp3.1\passagem.genruntimeconfig.cache

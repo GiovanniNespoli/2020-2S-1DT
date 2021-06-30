@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.AssemblyInfo.cs
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\celular\bin\Debug\netcoreapp3.1\celular.exe
+C:\Users\gglob\Desktop\senai\cod\POO\celular\bin\Debug\netcoreapp3.1\celular.deps.json
+C:\Users\gglob\Desktop\senai\cod\POO\celular\bin\Debug\netcoreapp3.1\celular.runtimeconfig.json
+C:\Users\gglob\Desktop\senai\cod\POO\celular\bin\Debug\netcoreapp3.1\celular.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\senai\cod\POO\celular\bin\Debug\netcoreapp3.1\celular.dll
+C:\Users\gglob\Desktop\senai\cod\POO\celular\bin\Debug\netcoreapp3.1\celular.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.dll
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\celular\obj\Debug\netcoreapp3.1\celular.genruntimeconfig.cache

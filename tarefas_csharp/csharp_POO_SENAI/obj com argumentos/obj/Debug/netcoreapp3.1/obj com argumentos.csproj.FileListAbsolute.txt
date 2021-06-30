@@ -1,0 +1,13 @@
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\bin\Debug\netcoreapp3.1\obj com argumentos.exe
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\bin\Debug\netcoreapp3.1\obj com argumentos.deps.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\bin\Debug\netcoreapp3.1\obj com argumentos.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\bin\Debug\netcoreapp3.1\obj com argumentos.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\bin\Debug\netcoreapp3.1\obj com argumentos.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\bin\Debug\netcoreapp3.1\obj com argumentos.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\obj com argumentos\obj\Debug\netcoreapp3.1\obj com argumentos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.AssemblyInfo.cs
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\While\while-do\bin\Debug\netcoreapp3.1\while-do.exe
+C:\Users\gglob\Desktop\While\while-do\bin\Debug\netcoreapp3.1\while-do.deps.json
+C:\Users\gglob\Desktop\While\while-do\bin\Debug\netcoreapp3.1\while-do.runtimeconfig.json
+C:\Users\gglob\Desktop\While\while-do\bin\Debug\netcoreapp3.1\while-do.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\While\while-do\bin\Debug\netcoreapp3.1\while-do.dll
+C:\Users\gglob\Desktop\While\while-do\bin\Debug\netcoreapp3.1\while-do.pdb
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.dll
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.pdb
+C:\Users\gglob\Desktop\While\while-do\obj\Debug\netcoreapp3.1\while-do.genruntimeconfig.cache

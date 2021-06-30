@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.exe
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.deps.json
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.json
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfo.cs
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.genruntimeconfig.cache

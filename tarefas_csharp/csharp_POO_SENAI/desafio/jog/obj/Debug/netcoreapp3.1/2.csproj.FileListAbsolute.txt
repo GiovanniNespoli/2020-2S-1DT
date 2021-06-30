@@ -1,0 +1,13 @@
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\bin\Debug\netcoreapp3.1\2.exe
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\bin\Debug\netcoreapp3.1\2.deps.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\bin\Debug\netcoreapp3.1\2.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\bin\Debug\netcoreapp3.1\2.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.csprojAssemblyReference.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.dll
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.pdb
+C:\Users\ggnes\Desktop\senai\cod\POO_-main\desafio\jog\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache

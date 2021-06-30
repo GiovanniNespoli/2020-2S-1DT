@@ -1,0 +1,13 @@
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csprojAssemblyReference.cache
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\gglob\Desktop\senai\cod\POO\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
